@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+}
+.mainContainer{
+    height: 800px;
+    background-image: url(../images/banner/banner1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content:right;
+
+}
+.header-title{
+
+    text-align: right;
+    margin-top: 300px;
+    margin-right: 200px;
+    
+}
+.Description-title{
+    width: 400px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.Description-title{
+    color: #444343;
+}
+
+.btn{
+    padding: 10px 20px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: red;
+}
