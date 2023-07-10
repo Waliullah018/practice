@@ -79,4 +79,24 @@ padding: 0;
     justify-content: center;
     margin-top: 40px;
 }
+section{
+    margin-bottom: 80px;
+}
+
+.Call{
+    padding: 10px 30px;
+}
+
+.positive-mind{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 80px;
+
+}
 
