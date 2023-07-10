@@ -39,3 +39,44 @@ padding: 0;
     border-radius: 5px;
     background-color: red;
 }
+.year-main{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.failure-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 320px;
+    
+
+}
+.title{
+    font-weight: bold;
+    font-size: 35px;
+}
+.plane{
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.left-plane-content{
+    display: flex;
+    gap: 50px
+}
+.item1{
+    text-align: center;
+}
+.item1 > p{
+    text-align: center;
+}
+.plane-content{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
