@@ -99,4 +99,42 @@ section{
     margin-bottom: 80px;
 
 }
-
+.footer-igm{
+    margin-top: 10px;
+}
+.footerContainer{
+ display: flex;
+ justify-content: space-between;
+align-items: first baseline;
+background-color: black;
+}
+.leftfooter{
+    padding-left: 185px;
+}
+.rightfooter{
+    padding-right: 185px;
+}
+.footer-describe{
+    width: 400px;
+    color: lightcyan;
+    
+}
+.footer-igm{
+    display: flex;
+    gap: 20px;
+}
+.fut{color: lightcyan;}
+.YEmail{
+    margin-top: 10px;
+    padding:15px 40px;
+    border: 2px solid rgb(155, 18, 18);
+    border-radius: 5px;
+   
+}
+.suscribe{
+    margin-top: 10px;
+    padding: 12px 45px;
+    border-radius: 5px;
+    border: none;
+    background-color: tomato;
+}
